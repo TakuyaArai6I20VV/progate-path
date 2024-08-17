@@ -1,0 +1,12 @@
+{
+  "name": "npm_scripts",
+  "scripts": {
+    "hello": "echo 'Hello World'",
+    "format:check": "prettier --check 'src/**/*.js'",
+    "format:fix": "prettier --write 'src/**/*.js'"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
