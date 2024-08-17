@@ -1,0 +1,24 @@
+{
+  "name": "color_list",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "@types/expect-puppeteer": "^5.0.3",
+    "@types/jest": "^29.5.3",
+    "@types/jest-environment-puppeteer": "^5.0.3",
+    "jest": "^29.6.2",
+    "jest-puppeteer": "^9.0.0",
+    "puppeteer": "^20.9.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}
